@@ -1,0 +1,20 @@
+{
+  "name": "at-boot-sass-skeleton",
+  "version": "0.0.1",
+  "description": "Alen Tolj's personal blog",
+  "authors": [
+    "Alen Tolj"
+  ],
+  "homepage": "www.alen-tolj.de",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.2.0"
+  }
+}
